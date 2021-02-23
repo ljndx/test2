@@ -98,7 +98,7 @@ enum RemoteButton {
     //% block=RIGHT
     Right = 0x5A,
     //% block=DOWN
-    Down = 0x52,
+    Down = 0x52
 }
 
 
